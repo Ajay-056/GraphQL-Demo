@@ -28,3 +28,5 @@ const resolver = {
     return new Course(id, input);
   },
 };
+
+export default resolver;
