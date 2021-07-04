@@ -1,3 +1,3 @@
-# lco-graphql
-A standard babel setup
-Starter project setup for upcoming crash courses
+# GraphQL Demo
+
+A demo application for learning GraphQL !!!
