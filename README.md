@@ -1,3 +1,3 @@
 # GraphQL Demo
 
-A demo application for learning GraphQL !!!
+A simple API developed with express JS for learning GraphQL !!!
