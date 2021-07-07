@@ -2,7 +2,7 @@
 
 A simple API developed with express JS for learning GraphQL !!!
 
-- To use this demo clone this repository.
+- To use this demo clone this repository or download.
 - Run npm install.
 - Install the following npm packages express, graphql, express-graphql, nanoid.
 - Change the port number if you wish to.
