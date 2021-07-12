@@ -1,4 +1,4 @@
-# GraphQL Demo
+# GraphQL Demo [![wakatime](https://wakatime.com/badge/github/Ajay-056/GraphQL-Demo.svg)](https://wakatime.com/badge/github/Ajay-056/GraphQL-Demo)
 
 A simple API developed with express JS for learning GraphQL !!!
 
